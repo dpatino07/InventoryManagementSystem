@@ -1,0 +1,28 @@
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.Properties.Resources.resources
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.csproj.GenerateResource.cache
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.AddPart.resources
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.AddProduct.resources
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.MainScreenForm.resources
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.ModifyPart.resources
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.ModifyProduct.resources
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.csproj.CoreCompileInputs.cache
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\bin\Debug\InventoryApplication.exe.config
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\bin\Debug\InventoryApplication.exe
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\bin\Debug\InventoryApplication.pdb
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.exe
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.pdb
+C:\Users\DPati\OneDrive\Desktop\WGU\C968\InventoryApplication\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.csprojAssemblyReference.cache
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\bin\Debug\InventoryApplication.exe.config
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\bin\Debug\InventoryApplication.exe
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\bin\Debug\InventoryApplication.pdb
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.csprojAssemblyReference.cache
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.AddPart.resources
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.AddProduct.resources
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.MainScreenForm.resources
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.ModifyPart.resources
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.ModifyProduct.resources
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.Properties.Resources.resources
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.csproj.GenerateResource.cache
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.csproj.CoreCompileInputs.cache
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.exe
+C:\Users\DPati\Downloads\InventoryApplication (2)\InventoryApplication\InventoryApplication\obj\Debug\InventoryApplication.pdb
